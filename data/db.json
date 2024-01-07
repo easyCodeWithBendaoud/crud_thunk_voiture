@@ -1,0 +1,25 @@
+{
+  "voitures": [
+    {
+      "id": 11,
+      "matricule": "455A5",
+      "marque": "renault",
+      "categorie": "familiale",
+      "reserve": false
+    },
+    {
+      "matricule": "188847a4",
+      "marque": "peugot",
+      "categorie": "coupé",
+      "reserve": false,
+      "id": 14
+    },
+    {
+      "matricule": "9455A5777",
+      "marque": "renaultssssssss",
+      "reserve": true,
+      "id": 15
+    }
+  ],
+  "users": []
+}
